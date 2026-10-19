@@ -1,0 +1,9 @@
+__pycache__/
+.venv/
+.env
+data/train.csv
+data/weather.csv
+data/metadata.csv
+data/*.parquet
+models/*.joblib
+.streamlit/secrets.toml
